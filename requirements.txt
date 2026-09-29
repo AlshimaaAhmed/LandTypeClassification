@@ -1,0 +1,14 @@
+Flask==3.0.0
+numpy
+tensorflow
+keras
+h5py
+joblib
+Pillow
+matplotlib
+tifffile
+requests
+huggingface-hub
+gunicorn
+protobuf
+scikit-learn
